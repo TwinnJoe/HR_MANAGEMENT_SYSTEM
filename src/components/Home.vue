@@ -5,7 +5,7 @@
       <header>
         <div class="user-profile">
           <img
-            src="https://ca.slack-edge.com/T02LW4RMXJQ-U07Q3KG4K0D-710193470838-512"
+            src="#"
             alt="Profile"
           />
           <span>Sinovuyo (Administrator)</span>
