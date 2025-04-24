@@ -34,7 +34,7 @@ A simple, front-end-focused HR system designed to showcase essential features su
 
 ## Preview
 
-![Project Preview](https://github.com/TwinnJoe/ELEMENTAL_CHALLENGE/blob/main/VISIO/images/Preview.png?raw=true)
+![Project Preview](https://github.com/TwinnJoe/HR_MANAGEMENT_SYSTEM/blob/main/public/img/icons/Preview.png?raw=true)
 ---
 
 ## 🛠️ Installation
