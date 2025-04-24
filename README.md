@@ -32,6 +32,9 @@ A simple, front-end-focused HR system designed to showcase essential features su
 ### 🖥️ User-Friendly Interface
 - Clean and responsive UI suitable for desktop, tablet, and mobile use.
 
+## Preview
+
+![Project Preview](https://github.com/TwinnJoe/ELEMENTAL_CHALLENGE/blob/main/VISIO/images/Preview.png?raw=true)
 ---
 
 ## 🛠️ Installation
