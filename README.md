@@ -1,4 +1,4 @@
-# HR Management System
+# HR System
 
 [![Live Demo](https://img.shields.io/badge/demo-online-orange)](https://hr-management-system-ten.vercel.app/)
 
