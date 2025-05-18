@@ -37,16 +37,8 @@ A simple, front-end-focused HR system designed to showcase essential features su
 ![Project Preview](https://github.com/TwinnJoe/HR_MANAGEMENT_SYSTEM/blob/main/public/img/icons/Preview.png?raw=true)
 ---
 
-## 🛠️ Installation
-
-Before running the project, make sure you have the required packages installed:
-
-```bash
-npm install jspdf
-npm install jspdf-autotable
-
-
 🔑 Login Credentials
+
 👑 Admin
 Username: Admin
 
