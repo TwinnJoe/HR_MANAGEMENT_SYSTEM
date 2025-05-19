@@ -1,6 +1,6 @@
 # HR System
 
-[![Live Demo](https://hr-system-roan.vercel.app/)] 
+[![Live Demo](https://img.shields.io/badge/demo-online-blue)](https://hr-system-roan.vercel.app/)
 
 A simple, front-end-focused HR system designed to showcase essential features such as employee management, payroll automation, and attendance tracking. This project includes a basic mock authentication system and demonstrates the potential for future full-stack development.
 
